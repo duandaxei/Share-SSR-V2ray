@@ -37,6 +37,9 @@
 | [优云666](https://youyun555.net/auth/register?code=8G2d)     | 无       | ✅        | ❌       | 注册送10G，每日签到送1-7G流量         |
 | [速蛙云](https://i.ok7.icu/2jj)     | 1       | ✅        | ❌       | 注册送1天会员，速度快，小流量年费套餐性价比高         |
 | [iKuuu](https://ikuuu.org/auth/register)     | 无限       | ✅        | ❌       | 每月50G         |
+| [在人间](https://www.lovefromgelifen.xyz/#/register?code=8PJFt15j)     | 无       | ✅        | ❌       | 无试用，节点质量高且不满意可全额退         |
+| [BITEB](https://biteb.me/auth/register?code=PJsT)     | 7       | ✅        | ❌       | 注册送7天100G，不验证邮箱         |
+
 
 ---
 
@@ -84,6 +87,8 @@
 作用：以下群组每天都会免费分享各种类型的节点，建议加入以下的群组以备不时之需。
 
 使用方法：
+
+> 以下步骤的前提是你已经具备科学上网能力，你可通过以上提供的几种方式实现。
 
 1. 下载安装 [Telegram](https://telegram.org/)
 2. 第一次使用必须先能够翻出去
