@@ -29,7 +29,7 @@
 | ------------------------------------------------------------ | -------- | -------- | -------- | ------------ |
 | [速蛙云](https://i.ok7.icu/2jj)     | 1       | ✅        | ❌       | 注册送1天会员，速度快，年费套餐性价比高         |
 | [极客云](https://jike138.com/auth/register?code=kP24)         | 无       | ✅        | ❌        | 注册送10G |
-| [西部世界](https://xbsj6148.xyz/i/iv210923/exxp8Un)         | 6       | ✅        | ❌        | 验证邮箱送会员，推荐        |
+| [西部世界](https://wwsj1783.xyz/i/iv220329/nyj4nhA)         | 6       | ✅        | ❌        | 验证邮箱送会员，推荐        |
 | [筋斗云(飞速云)](https://feisucloud.com/auth/register?code=CYgU)     | 30       | ✅        | ❌       | 注册送500M，每天签到最高送200M         |
 | [优云666](https://youyun222.net/auth/register?code=8G2d) | 无       | ✅        | ❌      | 注册送10G，每日签到送1-7G流量         |
 | [飞鸟云](https://feiniaoyun.tk/#/register?code=03lzB4ck) | 1 | ✅ | ❌ | 试用1天1G，不验证邮箱 |
@@ -44,6 +44,8 @@
 | [蜂巢](https://666yun.men/#/register?code=iRQeBbd0) | 1 | ✅ | ❌ | 低价套餐 |
 | [TAG](https://user.taggood-5.xyz/#/register?code=vHc1PiPr) | 无 | ✅ | ❌ | 收费，年费性价比高 |
 | [ikuuu](https://ikuuu.co/user) | N | ✅ | ❌ | 注册送50G，免费5+节点 |
+| [澜云](https://ep.0318.cyou/#/register?code=Prr72kPG) | 2 | ✅ | ❌ | 注册送8G，有免费节点 |
+| [VPROXY](https://vproxy.us/#/register?code=JDQZCQyc) | 365 | ✅ | ❌ | 注册送1T，免费5条节点 |
 
 
 
