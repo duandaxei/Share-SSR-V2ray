@@ -30,7 +30,7 @@
 | [速蛙云](https://i.ok7.icu/2jj)     | 1       | ✅        | ❌       | 注册送1天会员，速度快，年费套餐性价比高         |
 | [极客云](https://jike138.com/auth/register?code=kP24)         | 无       | ✅        | ❌        | 注册送10G |
 | [西部世界](https://wwsj1783.xyz/i/iv220329/nyj4nhA)         | 6       | ✅        | ❌        | 验证邮箱送会员，推荐        |
-| [筋斗云(飞速云)](https://feisucloud.com/auth/register?code=CYgU)     | 30       | ✅        | ❌       | 注册送500M，每天签到最高送200M         |
+| [筋斗云(飞速云)](https://feisucloud.net/auth/register?code=CYgU)     | 30       | ✅        | ❌       | 注册送500M，每天签到最高送200M         |
 | [优云666](https://youyun222.net/auth/register?code=8G2d) | 无       | ✅        | ❌      | 注册送10G，每日签到送1-7G流量         |
 | [飞鸟云](https://feiniaoyun.tk/#/register?code=03lzB4ck) | 1 | ✅ | ❌ | 试用1天1G，不验证邮箱 |
 | [速鹰666](https://suying222.net/auth/register?code=MwSm)     | 无       | ✅        | ❌       | 有推荐过，无免费节点，节点质量还可以 |
@@ -40,7 +40,6 @@
 | [极简](https://www.wogg.site/auth/register?code=2saR) | 1 | ✅ | ❌ | 试用一天VIP1节点，不验证邮箱 |
 | [Teacat](https://teacat.cloud/#/register?code=U5wQIWFk) | 7 | ✅ | ❌ | 试用7天1G，流量有点少 |
 | [上网课](https://shangwangke.org/auth/register?code=hRWc) | N | ✅ | ✅ | 白嫖无限制时间，需要绑定TG，不建议充值 |
-| [小鸟云](https://niaoyun-a.xyz/) | N | ✅ | ❌ | 注册送5G，节点20+ |
 | [蜂巢](https://666yun.men/#/register?code=iRQeBbd0) | 1 | ✅ | ❌ | 低价套餐 |
 | [TAG](https://user.taggood-5.xyz/#/register?code=vHc1PiPr) | 无 | ✅ | ❌ | 收费，年费性价比高 |
 | [ikuuu](https://ikuuu.co/user) | N | ✅ | ❌ | 注册送50G，免费5+节点 |
