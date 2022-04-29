@@ -89,11 +89,13 @@
 
 ---
 
-打开网站即可使用，可以访问所有的站点：
+【推荐】打开网站即可使用，可以访问所有的站点：
 
-[---jsproxy---](https://gamedun.github.io/)
+[-jsproxy-](https://proxy.fan.workers.dev/)
 
-[---jsproxy1---](https://proxy.fan.workers.dev/)
+[-siteproxy-](https://linproxy.fan.workers.dev/)
+
+[-jsproxy1-](https://gamedun.github.io/)
 
 
 ---
